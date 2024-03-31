@@ -27,16 +27,16 @@ The project is structured with a frontend built using React.js and a backend ser
    ```bash
    git clone https://github.com/JeromeStephanie/Ecom.git
 
-3.jjjjjj
 2. Navigate to the project directory:
    ```bash
    cd <project-directory>
+
 3. Install dependencies for both frontend and backend:
-```bash
-cd frontend
-npm install
-cd ../backend
-npm install
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
 
 4. Set up environment variables:
 
@@ -45,19 +45,23 @@ Add the following environment variables:
 PORT : Port number for the server
 STRIPE_SECRET_KEY : Secret key for Stripe integration
 
-##Usage
+
+## Usage
 1. Start the backend server:
-```bash
-cd backend
-npm start
+   ```bash
+   cd backend
+   npm start
 This will start the Express server.
 
 2. Start the frontend development server:
-```bash
-cd frontend
-npm start
+   ```bash
+   cd frontend
+   npm start
 
 This will start the React development server.
 
 Open your browser and go to http://localhost:3000 to access the application.
+
+
+
 
