@@ -26,6 +26,8 @@ The project is structured with a frontend built using React.js and a backend ser
 
    ```bash
    git clone https://github.com/JeromeStephanie/Ecom.git
+
+3.jjjjjj
 2. Navigate to the project directory:
    ```bash
    cd <project-directory>
